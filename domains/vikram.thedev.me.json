@@ -1,0 +1,11 @@
+{
+  "subdomain": "vikram",
+  "domain": "thedev.me",
+  "email_or_discord": "avs.chauhan01@gmail.com",
+  "github_username": "astra-ind",
+  "description": "Personal GitHub Pages site",
+  "records": {
+    "CNAME": ["astra-ind.github.io"]
+  },
+  "proxied": true
+}
